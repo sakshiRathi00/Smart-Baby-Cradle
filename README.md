@@ -14,6 +14,10 @@ Detection of baby’s movement using PIR sensors
 
 Sending notification to parents via BLYNK app.
 
+## about
+project uses ESP8266 nodeMCU controller with inbuilt wifi module
 
 this project is coded in embedded c using arduino ide
+
 and the simulation is done in proteus software
+
